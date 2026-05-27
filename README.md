@@ -6,7 +6,7 @@ Here are the different components:
 
 - [YOLO Testing Notebook](./YOLO%20Testing.ipynb): Full pipeline including data preprocessing, annotation conversion, model training, hyperparameter tuning, and evaluation
 - [Lot Occupancy Predictions](./Lot_Occupancy_PredictionsNEW.csv): Final model output — lot occupancy at each timestamp for which an image was collected
-- [Final Project Report (PDF)](./Project_Report.pdf): Full written report covering methodology, results, mobile application design, and scalability framework
+- [Final Project Report](./Project_Report.pdf): Full written report covering methodology, results, mobile application design, and scalability framework
 - [Figma Mobile App Prototype](https://pitch-squad-47294237.figma.site)
 
 ## Overview
