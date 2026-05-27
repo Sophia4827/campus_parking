@@ -31,10 +31,10 @@ This project addresses that gap by building a computer vision pipeline using **Y
 - Occupied space detection achieved nearly perfect recall (0.993) — the model is more likely to flag a space as occupied than to miss it, which is the preferred outcome for availability reporting
 
 ### Confusion Matrix
-![Confusion Matrix](./YOLO26/confusion_matrix_normalized.png)
+![Confusion Matrix](./confusion_matrix_normalized.png)
 
 ### Precision-Recall Curve
-![PR Curve](./YOLO26/BoxPR_curve.png)
+![PR Curve](./BoxPR_curve.png)
 
 ## Methods
 
