@@ -11,7 +11,7 @@ Here are the different components:
 
 ## Overview
 
-Parking congestion at Binghamton University is a persistent problem for commuters. The university's Transportation and Parking Services (TAPS) currently tracks availability through manual counts by student workers — a process that is labor-intensive, error-prone, and operates on a one-hour lag. Security cameras are already installed across campus lots, making an automated, image-based solution both technically feasible and cost-effective.
+Parking congestion at Binghamton University is a persistent problem for commuters. The university's Transportation and Parking Services (TAPS) currently tracks availability through manual counts by student workers, a process that is labor-intensive, error-prone, and operates on a one-hour lag. Security cameras are already installed across campus lots, making an automated, image-based solution both technically feasible and cost-effective.
 
 This project addresses that gap by building a computer vision pipeline using **YOLO26s** (Ultralytics' latest small-variant object detection model) trained on **PKLot**, a publicly available university parking lot dataset, as a stand-in for Binghamton's camera infrastructure.
 
